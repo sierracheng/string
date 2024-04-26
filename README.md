@@ -1,1 +1,1 @@
-# string
+HostName=techin515.azure-devices.net;DeviceId=techin515;SharedAccessKey=6nCY7f7BRCFa6v9FJ4EFGIjtxH7dICyOYAIoTGx4/g0=
